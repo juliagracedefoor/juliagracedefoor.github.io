@@ -1,4 +1,3 @@
-# juliagracedefoor.github.io
-A simple blog for my art projects.
+## juliagracedefoor.github.io
 
-Contributions welcome!
+A simple blog for my art projects. Contributions welcome!
